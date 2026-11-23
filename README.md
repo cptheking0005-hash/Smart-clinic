@@ -85,7 +85,7 @@ Database is automatically created and populated through SetupServlet.java.
 3. Run the project
 4. Access:
 ```
-http://localhost:8082/SmartClinic/
+http://localhost:8080/SmartClinic/
 
 ---
 
@@ -103,10 +103,10 @@ These visualizations were included in the project report.
 
 ## Author
 
-Khushboo Banjara
-BCA Student
+Bhumika Mathur
+BCA Student II Year
 
 ---
 
 ## GitHub Repository Link
-https://github.com/khushboobanjara2005-collab/SmartClinicAppointmentSystem
+https://github.com/cptheking005-hash/Smart-clinic/
