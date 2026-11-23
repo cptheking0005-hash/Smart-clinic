@@ -109,4 +109,4 @@ BCA Student II Year
 ---
 
 ## GitHub Repository Link
-https://github.com/cptheking005-hash/Smart-clinic
+https://github.com/cptheking0005-hash/Smart-clinic
